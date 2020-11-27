@@ -27,7 +27,7 @@ The user would like to.. :
 
 3. Get into Python folder (cd into Python)..
 
-4. If you have all the Pre-requisites you can run the application..
+4. If you have all the Pre-requisites you can run the application.
 
 ### Technologies and Pre-requisites
 
