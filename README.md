@@ -25,7 +25,7 @@ The user would like to.. :
 
 2. Clone the project.
 
-3. Get into Python folder (cd into Python).
+3. Get into Python folder (cd into Python)..
 
 4. If you have all the Pre-requisites you can run the application..
 
