@@ -1,1 +1,1 @@
-web: gunicorn manage:app heroku login
+web: gunicorn manage:app
