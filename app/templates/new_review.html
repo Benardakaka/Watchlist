@@ -1,6 +1,7 @@
 {% extends 'base.html'%}
  {% import "bootstrap/wtf.html" as wtf %}
-  {% block content %}
+ 
+ {% block content %}
   
 <div class="container">
   <div class="col-md-8">
@@ -8,6 +9,12 @@
   </div>
 
   <div class="col-md-4">{{ wtf.quick_form(review_form) }}</div>
+  <div class="col-md-4">
+    {{ wtf.quick_form(review_form) }}
+    {{simplemde.load}}
+</div>
 </div>
 
 {% endblock %}
+
+
