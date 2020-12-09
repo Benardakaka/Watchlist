@@ -4,7 +4,6 @@
 
 ## Description
 
-This is a website application that allows user to read other peoples pitches and create their own. pitches. And they can also  post their comments for liking nor disliking the viewed.
 
 This is a python/flask application that manage the user to search His/Her movies.
 
